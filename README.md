@@ -30,7 +30,7 @@ I will support Python 2.6+.
 
 If you want to configure database only on your Django applications, you can use [dj-database-url](https://github.com/kennethreitz/dj-database-url).
 
-**** is generaized than [dj-database-url](https://github.com/kennethreitz/dj-database-url) so it make to write some code for converting to database engine from scheme on Django applications.
+**configurl** is generaized than [dj-database-url](https://github.com/kennethreitz/dj-database-url) so it make to write some code for converting to database engine from scheme on Django applications.
 
 
 ## Licence
