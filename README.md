@@ -4,6 +4,8 @@ Use 12factor inspired URLs to configure any applications.
 
 **This project is in development. It has not been released yet.**
 
+[![Build Status](https://travis-ci.org/tomochikahara/configurl.py.svg?branch=master)](https://travis-ci.org/tomochikahara/configurl.py)
+
 ## Usage
 
 Parse setting from URL string:
